@@ -1,0 +1,14 @@
+{
+  "week_start": "2026-11-02",
+  "revision": 1,
+  "phase": "Retorno conservador · Semana 1",
+  "objective": "Reiniciar con suavidad tras la recuperación. Sin series, sin CrossFit ni natación. Todo sujeto a tolerancia y las indicaciones del equipo médico.",
+  "sessions": [
+    {"id":"nov02-run","date":"2026-11-02","sport":"run","minutes":30,"title":"Trote o caminar-correr muy suave","intensity":"Z1–Z2 / conversacional","rpeTarget":2,"notes":"Si reaparece presión nasal, molestia o cualquier síntoma, interrumpir y consultar."},
+    {"id":"nov03-bike","date":"2026-11-03","sport":"bike","minutes":45,"title":"Bici fácil","intensity":"Z1–Z2","rpeTarget":2,"notes":"Cadencia cómoda, terreno llano o rodillo."},
+    {"id":"nov04-run","date":"2026-11-04","sport":"run","minutes":35,"title":"Rodaje controlado","intensity":"Z1–Z2","rpeTarget":2,"notes":"No perseguir ritmos previos a la operación."},
+    {"id":"nov06-run","date":"2026-11-06","sport":"run","minutes":35,"title":"Rodaje fácil","intensity":"Z1–Z2","rpeTarget":2,"notes":"Si hay fatiga acumulada, sustituir por paseo o descanso."},
+    {"id":"nov07-bike","date":"2026-11-07","sport":"bike","minutes":115,"title":"Resistencia aeróbica sin intensidad","intensity":"Z1–Z2","rpeTarget":3,"notes":"Hidratación y aporte de carbohidratos según tolerancia."},
+    {"id":"nov08-bike","date":"2026-11-08","sport":"bike","minutes":75,"title":"Bici suave de consolidación","intensity":"Z1–Z2","rpeTarget":2,"notes":"Valorar sensaciones y recuperación para revisar el domingo."}
+  ]
+}
